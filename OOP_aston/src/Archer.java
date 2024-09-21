@@ -13,5 +13,8 @@ public class Archer extends Hero{
          }
     //тест
     //kl;jk;jkl;kl
+
+
+
     //ываываыаываываыва
 }
