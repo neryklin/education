@@ -11,5 +11,6 @@ public class Archer extends Hero{
         enemy.takeDamage(damage);
         System.out.println("Archer атакует врага, враг получил "+damage+" урона, осталось жизни " + enemy.getHealth());
          }
-
+    //тест
+    //ываываыаываываыва
 }
